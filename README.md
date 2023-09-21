@@ -1,5 +1,5 @@
 # Advanced-DMALL
-Advanced dmall for discord bot, support every components 
+Advanced dmall for discord bot, support every components (button [Disable/Enabled], Dropdown [Menu], Forum [Modals])
 
 
  # FEATURES
